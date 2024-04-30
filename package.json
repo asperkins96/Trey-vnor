@@ -2,7 +2,7 @@
   "name": "counter-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://asperkins96.github.io/trey-vnor",
+  "homepage": "https://github.com/asperkins96/Trey-vnor",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
